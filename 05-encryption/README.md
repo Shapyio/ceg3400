@@ -145,12 +145,12 @@ Keys are different but mathematically related.
 # Differences
 
 Symmetric | Asymmetric
----       | ---
-* One key | * Multiple keys
-* Fast | * Slow
-* Used to encrypt various amounts of data | * Used to authenticate and initiate symmetric encryption
-* Key must be secured | * only private key needs securing
-* Needs more keys to establish secure communications within a group | * Needs fewer keys to establish secure communication in a group
+--- | ---
+One key | Multiple keys
+Fast | Slow
+Used to encrypt various amounts of data | Used to authenticate and initiate symmetric encryption
+Key must be secured | only private key needs securing
+Needs more keys to establish secure communications within a group | Needs fewer keys to establish secure communication in a group
 
 ---
 
